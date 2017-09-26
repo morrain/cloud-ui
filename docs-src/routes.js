@@ -35,6 +35,7 @@ export default [
             { path: 'u-textarea', component: () => import('u-textarea.vue/README.md') },
             { path: 'u-select', component: () => import('../src/u-select.vue/README.md') },
             { path: 'u-cascade-select', component: () => import('../src/u-cascade-select.vue/README.md') },
+            { path: 'u-region-select', component: () => import('../src/u-region-select.vue/README.md') },
             { path: 'u-multi-select', component: () => import('../src/u-multi-select.vue/README.md') },
             { path: 'u-color-select', component: () => import('../src/u-color-select.vue/README.md') },
             { path: 'u-checkbox', component: () => import('u-checkbox.vue/README.md') },

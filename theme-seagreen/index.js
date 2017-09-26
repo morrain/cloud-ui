@@ -41,6 +41,7 @@ export {
     Pills,
     Popover,
     Popper,
+    RegionSelect,
     Select,
     SelectItem,
     Sidebar,

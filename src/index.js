@@ -39,6 +39,7 @@ import Pill from './u-pill.vue';
 import Pills from './u-pills.vue';
 import Popover from './u-popover.vue';
 import Popper from './u-popper.vue';
+import RegionSelect from './u-region-select.vue';
 import Select from './u-select.vue';
 import SelectItem from './u-select-item.vue';
 import CascadeSelect from './u-cascade-select.vue';
@@ -114,6 +115,7 @@ const Components = {
     Pills,
     Popover,
     Popper,
+    RegionSelect,
     Select,
     SelectItem,
     Sidebar,
@@ -189,6 +191,7 @@ export {
     Pills,
     Popover,
     Popper,
+    RegionSelect,
     Select,
     SelectItem,
     Sidebar,
