@@ -1,0 +1,3 @@
+<u-linear-layout>
+    <u-select v-for="(item, index) in showData" :key="index" :data="item.data" :value="item.value" @select="select($event, index)"></u-select>
+</u-linear-layout>

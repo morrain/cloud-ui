@@ -41,6 +41,7 @@ import Popover from './u-popover.vue';
 import Popper from './u-popper.vue';
 import Select from './u-select.vue';
 import SelectItem from './u-select-item.vue';
+import CascadeSelect from './u-cascade-select.vue';
 import Sidebar from './u-sidebar.vue';
 import SidebarGroup from './u-sidebar-group.vue';
 import SidebarItem from './u-sidebar-item.vue';
@@ -80,6 +81,7 @@ const Components = {
     Calendar,
     Capsule,
     Capsules,
+    CascadeSelect,
     Chart,
     Checkbox,
     CircularProgress,
@@ -154,6 +156,7 @@ export {
     Calendar,
     Capsule,
     Capsules,
+    CascadeSelect,
     Chart,
     Checkbox,
     CircularProgress,

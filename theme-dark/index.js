@@ -8,6 +8,7 @@ export {
     Calendar,
     Capsule,
     Capsules,
+    CascadeSelect,
     Chart,
     Checkbox,
     CircularProgress,
